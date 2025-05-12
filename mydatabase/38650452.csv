@@ -1,0 +1,201 @@
+﻿StudentID,SFirstName,SSurname,Gender,CourseID,CTitle,Credits,YearGroup,TeacherID,TTitle,TFirstName,TSurname,Gender
+1,Anne,Milner,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+2,Johnny,Silverhand,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+3,Pedro,Catipon,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+4,Henry,Hoover,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+5,Nicolas,Tesla,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+6,Vince,Kyne,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+7,James,Hamon,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+8,Sheldon,Cooper,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+9,Hannah,Pielenski,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+10,Jeff,Jets,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+11,Ross,Norbert,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+12,Paul,Potss,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+13,Tony,Milner,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+14,Tina,Stevenson,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+15,Frank,Eisenhower,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+16,Luke,Ziggler,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+17,Luke,Jaguar,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+18,Amy,Schumer,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+19,Dimitri,Boss,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+20,Casper,Ayling,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+21,Obi,One-Kenobi,M,3,Proof,15,2,2,Prof,Ben,Pork,M
+22,Finn,Felixson,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+23,Aboubar,Conte,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+24,Alex,Ferguson,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+25,George,Delier,M ,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+26,Tim,Anderson,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+27,Aimee,Virgo,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+28,Chloe,Carrots,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+29,Sammie,Salinksy,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+30,India,Derli,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+31,Stefania,Smith,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+32,Ellen,Humpries,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+33,Sky,Taylor,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+34,Ellie,Cash,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+35,Maddie,Konsa,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+36,Kiera,Mainoo,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+37,Ria,Slumting,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+38,Eve,Keating,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+39,Aisha,Mount,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+40,Aisling,Rashford,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+41,Andy,Yeto,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+42,Umberto,Haaland,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+43,Axel,Grealish,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+44,Taylor,Heeter,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+45,Wiktoria,Gulcyknzi,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+46,Astrid,Wetter,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+47,Aubele,Bertrand,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+48,Kyle,Damascus,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+49,Zachary,Incles,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+50,Zack,Chan,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+51,Jackie,Bars,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+52,Onyx,Sewell,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+53,Si,Chi,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+54,Ricardo,Sparrowhead,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+55,Felipe,Elanga,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+56,Lia,Umbero,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+57,Felipe,Elanga,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+58,Austin,Powersonn,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+59,China,Littler,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+60,May,Hargreaves,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+61,Brooklyn,Bridge,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+62,Bambi,Deerson,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+63,Peter,Diogo,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+64,Aykut,Dumlupinar,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+65,Charlie,Cheesy,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+66,Nathan,Warner,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+67,Nathan,Rigby,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+68,Elliot,Milner-Rudd,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+69,Vincent,Van-Gerwen,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+70,Vincento,Yardy,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+71,Brianna,Halls,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+72,Steffie,Halls,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+73,Barbara,Brooks,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+74,Joel,D'alessandro,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+75,Jude,Bellingham,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+76,Tim,Tomson,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+77,Mlapa,Abotchi,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+78,Luca,Ruocco,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+79,Georgia,Hunter,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+80,Kyle,Asreas,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+81,Samuel,Smith,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+82,Renan,Meireless,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+83,Eleanor ,Rowney,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+84,Ellie ,Johnson,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+85,William,Milliam,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+86,Kacper,Waster,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+87,Jacob,Whipp,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+88,Jayce,Fitzgerald,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+89,Yousoffo,Moukoko,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+90,Katie,Price,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+91,Jessica,Murphy,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+92,Charlotte,Buteras,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+93,Owen,Beck,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+94,James,Bagwell,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+95,Alan,Turing,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+96,Lauren,Stephenson,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+97,Hannah,Heavner,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+98,Natalie,Wrigley,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+99,Raigan,Lily,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+100,Janice,Grant,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+101,Victoria,Novska,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+102,Tennessee,Richardson,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+103,Beatrix,Robbie,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+104,Kinga,Couger,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+105,Sally,Speeceman,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+106,Regan,Landry,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+107,John,Odell,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+108,Benjamin,Tissier,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+109,Des,Byrne,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+110,Zhang,Xiou,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+111,Harriet,Herter,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+112,Timothy,Cheras,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+113,Lewis,Bonmann,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+114,Ben,Millership,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+115,Osman,Kildare,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+116,Lewis,Turner,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+117,Georgia,Glockin,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+118,Olivia,Drury,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+119,Darci,Shaw,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+120,Natalia,Dimeo,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+121,Libby,Webb,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+122,Mckenzie,Court,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+123,Holly,Mckenzie,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+124,Janet,Pillsby,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+125,Amelia,Eaton,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+126,Nick,Godfrey,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+127,Youseff,Chermitti,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+128,Bren,Worrall,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+129,Anna,Wojlowski,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+130,Hope,Hunter,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+131,Leon ,Sleegers,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+132,Lorenzo ,Marcone,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+133,Daniel ,Jones,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+134,Paige,Badinsky,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+135,Skyler,Wutzler,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+136,Mylie,Tyrus,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+137,Madeline,Kenzie,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+138,Jonah,Hulesman,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+139,Aaron,Leadbeater,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+140,Petr,Vrabec,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+141,Alan,Ball,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+142,Myles,Kyne,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+143,Faith,Oats,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+144,Tia,Moorhouse,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+145,David,Goliath,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+146,John,Mikel,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+147,Sally,Werst,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+148,Daniel ,Certan,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+149,Lucas,Rodfeiler,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+150,Cain,Chips,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+151,Sean,Millis,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+152,Luke,Stewart,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+153,Kate,Middlesborough,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+154,Leila,Fishwick,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+155,Victoria,Blackburn,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+156,Reece,Barker,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+157,Lex,Bowie,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+158,Mohammed,Milner,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+159,Karolina,Morys,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+160,Beth,Hitchen,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+161,Veronica,Lodge,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+162,Cerys,Turner,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+163,Lourdes,Ruocco ,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+164,Adam,Smasher,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+165,Kyle,Brown,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+166,Jack,Burns,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+167,Karl,Pacheco,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+168,Blaine,Cherry,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+169,Ernie,Best,M,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+170,Felix,Clark,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+171,Darren,Fletcher,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+172,Jack,Butterworth,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+173,Charlie,Strachan,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+174,Xavier,Adiou,M,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+175,Oliver,Norman,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+176,Ethan,Gregg,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+177,Quinn,Salter,M,1,Calculus,15,1,1,Prof,John,Hawking,M
+178,Boris,Leyland,M,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+179,Beatrice,Mclaughlin,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+180,Olivia,Grainger,F,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+181,Jasmine,Wilkinson,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+182,Rachel,Schlatt,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+183,Regan,Brownwood,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+184,Caitlin,Brown,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+185,Alicia,Westhead,F,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+186,Karl,Pacheco,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+187,Jacklin,Paris,F,2,Probability,30,2,4,Prof,Rue,Ibanez,F
+188,Evie,Streissand,F,5,Linear Algebra,30,2,3,Dr,Alistair,Baron,M
+189,Jackie,Plore,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+190,Jack,Mcalea,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+191,Andre,Poulzer,M,8,Quadratics,15,1,8,Dr,Danny,Dolphin,M
+192,India,Lovett,F,1,Calculus,15,1,1,Prof,John,Hawking,M
+193,Esther,Gordon,F,7,Relational Algebra,15,1,7,Prof,Pedro,Athanasiou,M
+194,Lisa,Anne,F,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+195,Anne,Kennedy,F,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+196,Vicente,Arenas,M,3,Proof,15,2,6,Dr,Phoebe,Rudd,F
+197,Kossi,Adjahli,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+198,Cristiano,Ronaldo,M,4,Further Calc,15,1,2,Prof,Ben,Pork,M
+199,Pedro,Mussa,M,6,Statistics,15,1,5,Dr,Claire,Courtney,F
+200,Jason,Nemzz,M,3,Proof,15,1,6,Dr,Phoebe,Rudd,F

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="text2slides.Text2slidesApplicationTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-02-12T15:17:38" hostname="egb076000005" time="0.72">
+  <properties/>
+  <testcase name="testGetAudio()" classname="text2slides.Text2slidesApplicationTests" time="0.032"/>
+  <testcase name="testGetImage()" classname="text2slides.Text2slidesApplicationTests" time="0.007"/>
+  <testcase name="testGetVideo()" classname="text2slides.Text2slidesApplicationTests" time="0.082"/>
+  <testcase name="testSaveFile()" classname="text2slides.Text2slidesApplicationTests" time="0.015"/>
+  <testcase name="testUIInitialization()" classname="text2slides.Text2slidesApplicationTests" time="0.185"/>
+  <testcase name="testReadFile()" classname="text2slides.Text2slidesApplicationTests" time="0.012"/>
+  <testcase name="testExecCodeWithValidCode()" classname="text2slides.Text2slidesApplicationTests" time="0.383"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

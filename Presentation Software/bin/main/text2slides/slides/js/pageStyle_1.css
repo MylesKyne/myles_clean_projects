@@ -1,0 +1,19 @@
+//<style>
+body {
+    background-color: lightblue;
+    background-size: cover;
+}
+body.dark-mode {
+    background-color: black; 
+    color: white;
+}
+h1 {
+    color: navy;
+}
+h2 {
+    color: red;
+}
+h3 {
+    color: green;
+}
+//</style>

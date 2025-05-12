@@ -1,0 +1,18 @@
+Compilation Exception
+	Caused by Error at line 1 (token: begim): Expected begin
+
+Compilation Exception
+	Caused by Error at line 11 (token: ): Expected if
+
+Compilation Exception
+	Caused by Error at line 7 (token: end): Unexpected token in <Statement>
+
+Compilation Exception
+	Caused by Error at line 7 (token: ;): Expected loop
+
+Compilation Exception
+	Caused by Error at line 4 (token: else): Unexpected token in <Statement>
+
+Compilation Exception
+	Caused by Error at line 12 (token: call): Expected EOF
+

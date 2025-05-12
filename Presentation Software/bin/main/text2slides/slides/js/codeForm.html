@@ -1,0 +1,53 @@
+<head>
+<meta charset="UTF-8">
+<title>Code form</title>
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  textarea {
+    width: 45%;
+    height: 200px;
+    margin: 10px;
+  }
+  button {
+    margin: 10px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <textarea id="inputArea{ID}">{CODE}</textarea>
+  <textarea id="resultArea{ID}" readonly>Program result</textarea>
+</div>
+<button id="runButton{ID}" onclick="sendData{ID}()">Run</button>
+
+<script>
+function sendData{ID}() {
+	
+	  const runButton{ID} = document.getElementById('runButton{ID}');
+	  runButton{ID}.disabled = true;
+
+	  var inputData{ID} = document.getElementById('inputArea{ID}').value;
+	  
+	  fetch('http://localhost:8080/code', {
+	    method: 'POST',
+	    headers: {
+	      'Content-Type': 'application/json',
+	    },
+	    body: JSON.stringify({text: inputData{ID}}),
+	  })
+	  .then(response => response.json())
+	  .then(data => {
+	    document.getElementById('resultArea{ID}').value = data.response;
+		runButton{ID}.disabled = false;
+	  })
+	  .catch((error) => {
+	    console.error('Error:', error);
+		runButton{ID}.disabled = false;
+	  });
+	}
+</script>
+</body>
+</html>

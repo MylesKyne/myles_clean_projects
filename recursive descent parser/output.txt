@@ -1,0 +1,1217 @@
+312START
+
+312FILE Programs Folder/program0
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <WhileStatement>
+            Terminal: while (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: loop (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                           Terminal: * (line 5)
+                           Entering <Factor>
+                              Terminal: x1 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x1 (line 6)
+                     Terminal: := (line 6)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: 1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 7)
+            Terminal: loop (line 7)
+         Exiting <WhileStatement>
+      Exiting <Statement>
+      Terminal: ; (line 7)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: text (line 8)
+            Terminal: := (line 8)
+            Terminal: the result is  (line 8)
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 8)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 9)
+            Terminal: put (line 9)
+            Terminal: ( (line 9)
+            Entering <ArgumentList>
+               Terminal: text (line 9)
+            Exiting <ArgumentList>
+            Terminal: ) (line 9)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 9)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 10)
+            Terminal: put (line 10)
+            Terminal: ( (line 10)
+            Entering <ArgumentList>
+               Terminal: x1 (line 10)
+            Exiting <ArgumentList>
+            Terminal: ) (line 10)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+   Exiting <StatementList>
+   Terminal: end (line 11)
+Exiting <StatementPart>
+Terminal:  (line 13)
+Parsing completed successfully.
+
+312FILE Programs Folder/program1
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <WhileStatement>
+            Terminal: while (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: loop (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                           Terminal: * (line 5)
+                           Entering <Factor>
+                              Terminal: x1 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x1 (line 6)
+                     Terminal: := (line 6)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: 1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 7)
+            Terminal: loop (line 7)
+         Exiting <WhileStatement>
+      Exiting <Statement>
+      Terminal: ; (line 7)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: text (line 8)
+            Terminal: := (line 8)
+            Terminal: the result is  (line 8)
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 8)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 9)
+            Terminal: put (line 9)
+            Terminal: ( (line 9)
+            Entering <ArgumentList>
+               Terminal: text (line 9)
+            Exiting <ArgumentList>
+            Terminal: ) (line 9)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 9)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 10)
+            Terminal: put (line 10)
+            Terminal: ( (line 10)
+            Entering <ArgumentList>
+               Terminal: x1 (line 10)
+            Exiting <ArgumentList>
+            Terminal: ) (line 10)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+   Exiting <StatementList>
+   Terminal: end (line 11)
+Exiting <StatementPart>
+Terminal:  (line 12)
+Parsing completed successfully.
+
+312FILE Programs Folder/program2
+Entering <StatementPart>
+
+312FILE Programs Folder/program3
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <IfStatement>
+            Terminal: if (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: then (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                           Terminal: * (line 5)
+                           Entering <Factor>
+                              Terminal: x1 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: text (line 6)
+                     Terminal: := (line 6)
+                     Terminal: the result is  (line 6)
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 6)
+               Entering <Statement>
+                  Entering <ProcedureStatement>
+                     Terminal: call (line 7)
+                     Terminal: put (line 7)
+                     Terminal: ( (line 7)
+                     Entering <ArgumentList>
+                        Terminal: text (line 7)
+                     Exiting <ArgumentList>
+                     Terminal: ) (line 7)
+                  Exiting <ProcedureStatement>
+               Exiting <Statement>
+               Terminal: ; (line 7)
+               Entering <Statement>
+                  Entering <ProcedureStatement>
+                     Terminal: call (line 8)
+                     Terminal: put (line 8)
+                     Terminal: ( (line 8)
+                     Entering <ArgumentList>
+                        Terminal: x1 (line 8)
+                     Exiting <ArgumentList>
+                     Terminal: ) (line 8)
+                  Exiting <ProcedureStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 9)
+
+312FILE Programs Folder/program4
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <WhileStatement>
+            Terminal: while (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: loop (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                           Terminal: * (line 5)
+                           Entering <Factor>
+                              Terminal: x1 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x1 (line 6)
+                     Terminal: := (line 6)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: 1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 6)
+               Entering <Statement>
+
+312FILE Programs Folder/program5
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <WhileStatement>
+            Terminal: while (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: loop (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                           Terminal: * (line 5)
+                           Entering <Factor>
+                              Terminal: x1 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x1 (line 6)
+                     Terminal: := (line 6)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: 1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 7)
+
+312FILE Programs Folder/program6
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <WhileStatement>
+            Terminal: while (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: loop (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: a (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 5)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: b (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: + (line 5)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: c (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 5)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: d (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: + (line 5)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: e (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x1 (line 6)
+                     Terminal: := (line 6)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: a (line 6)
+                           Exiting <Factor>
+                           Terminal: * (line 6)
+                           Entering <Factor>
+                              Terminal: b (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: c (line 6)
+                           Exiting <Factor>
+                           Terminal: / (line 6)
+                           Entering <Factor>
+                              Terminal: d (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: + (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: e (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 7)
+            Terminal: loop (line 7)
+         Exiting <WhileStatement>
+      Exiting <Statement>
+      Terminal: ; (line 7)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: text (line 8)
+            Terminal: := (line 8)
+            Terminal: the result is  (line 8)
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 8)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 9)
+            Terminal: put (line 9)
+            Terminal: ( (line 9)
+            Entering <ArgumentList>
+               Terminal: text (line 9)
+            Exiting <ArgumentList>
+            Terminal: ) (line 9)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 9)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 10)
+            Terminal: put (line 10)
+            Terminal: ( (line 10)
+            Entering <ArgumentList>
+               Terminal: x1 (line 10)
+            Exiting <ArgumentList>
+            Terminal: ) (line 10)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+   Exiting <StatementList>
+   Terminal: end (line 11)
+Exiting <StatementPart>
+Terminal:  (line 13)
+Parsing completed successfully.
+
+312FILE Programs Folder/program7
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+
+312FILE Programs Folder/program8
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <WhileStatement>
+            Terminal: while (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: loop (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                           Terminal: * (line 5)
+                           Entering <Factor>
+                              Terminal: x1 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x1 (line 6)
+                     Terminal: := (line 6)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: 1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 7)
+            Terminal: loop (line 7)
+         Exiting <WhileStatement>
+      Exiting <Statement>
+      Terminal: ; (line 7)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: text (line 8)
+            Terminal: := (line 8)
+            Terminal: the result is  (line 8)
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 8)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 9)
+            Terminal: put (line 9)
+            Terminal: ( (line 9)
+            Entering <ArgumentList>
+               Terminal: text (line 9)
+            Exiting <ArgumentList>
+            Terminal: ) (line 9)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 9)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 10)
+            Terminal: put (line 10)
+            Terminal: ( (line 10)
+            Entering <ArgumentList>
+               Terminal: x1 (line 10)
+            Exiting <ArgumentList>
+            Terminal: ) (line 10)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+   Exiting <StatementList>
+   Terminal: end (line 11)
+Exiting <StatementPart>
+
+312FILE Programs Folder/program9
+Entering <StatementPart>
+   Terminal: begin (line 0)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 1)
+            Terminal: get (line 1)
+            Terminal: ( (line 1)
+            Entering <ArgumentList>
+               Terminal: x1 (line 1)
+            Exiting <ArgumentList>
+            Terminal: ) (line 1)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 1)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x3 (line 2)
+            Terminal: := (line 2)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 0 (line 2)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <ForStatement>
+            Terminal: for (line 3)
+            Terminal: ( (line 3)
+            Entering <AssignmentStatement>
+               Terminal: x2 (line 3)
+               Terminal: := (line 3)
+               Entering <Expression>
+                  Entering <Term>
+                     Entering <Factor>
+                        Terminal: 1 (line 3)
+                     Exiting <Factor>
+                  Exiting <Term>
+               Exiting <Expression>
+            Exiting <AssignmentStatement>
+            Terminal: ; (line 3)
+            Entering <Condition>
+               Terminal: x2 (line 3)
+               Terminal: < (line 3)
+               Terminal: x1 (line 3)
+            Exiting <Condition>
+            Terminal: ; (line 3)
+            Entering <AssignmentStatement>
+               Terminal: x2 (line 3)
+               Terminal: := (line 3)
+               Entering <Expression>
+                  Entering <Term>
+                     Entering <Factor>
+                        Terminal: x2 (line 3)
+                     Exiting <Factor>
+                  Exiting <Term>
+                  Terminal: + (line 3)
+                  Entering <Term>
+                     Entering <Factor>
+                        Terminal: 1 (line 3)
+                     Exiting <Factor>
+                  Exiting <Term>
+               Exiting <Expression>
+            Exiting <AssignmentStatement>
+            Terminal: ) (line 3)
+            Terminal: do (line 3)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <ProcedureStatement>
+                     Terminal: call (line 4)
+                     Terminal: put (line 4)
+                     Terminal: ( (line 4)
+                     Entering <ArgumentList>
+                        Terminal: x1 (line 4)
+                        Terminal: , (line 4)
+                        Terminal: x2 (line 4)
+                        Terminal: , (line 4)
+                        Terminal: x3 (line 4)
+                     Exiting <ArgumentList>
+                     Terminal: ) (line 4)
+                  Exiting <ProcedureStatement>
+               Exiting <Statement>
+               Terminal: ; (line 4)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x3 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x3 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: + (line 5)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 6)
+            Terminal: loop (line 6)
+         Exiting <ForStatement>
+      Exiting <Statement>
+      Terminal: ; (line 6)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 7)
+            Terminal: put (line 7)
+            Terminal: ( (line 7)
+            Entering <ArgumentList>
+               Terminal: x3 (line 7)
+            Exiting <ArgumentList>
+            Terminal: ) (line 7)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+   Exiting <StatementList>
+   Terminal: end (line 8)
+Exiting <StatementPart>
+Terminal:  (line 9)
+Parsing completed successfully.
+
+312FILE Programs Folder/program10
+Entering <StatementPart>
+   Terminal: begin (line 0)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 0)
+            Terminal: get (line 0)
+            Terminal: ( (line 0)
+            Entering <ArgumentList>
+               Terminal: x1 (line 0)
+            Exiting <ArgumentList>
+            Terminal: ) (line 0)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 0)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x3 (line 0)
+            Terminal: := (line 0)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 0 (line 0)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 0)
+      Entering <Statement>
+         Entering <ForStatement>
+            Terminal: for (line 0)
+            Terminal: ( (line 0)
+            Entering <AssignmentStatement>
+               Terminal: x2 (line 0)
+               Terminal: := (line 0)
+               Entering <Expression>
+                  Entering <Term>
+                     Entering <Factor>
+                        Terminal: 1 (line 0)
+                     Exiting <Factor>
+                  Exiting <Term>
+               Exiting <Expression>
+            Exiting <AssignmentStatement>
+            Terminal: ; (line 0)
+            Entering <Condition>
+               Terminal: x2 (line 0)
+               Terminal: < (line 0)
+               Terminal: x1 (line 0)
+            Exiting <Condition>
+            Terminal: ; (line 0)
+            Entering <AssignmentStatement>
+               Terminal: x2 (line 0)
+               Terminal: := (line 0)
+               Entering <Expression>
+                  Entering <Term>
+                     Entering <Factor>
+                        Terminal: x2 (line 0)
+                     Exiting <Factor>
+                  Exiting <Term>
+                  Terminal: + (line 0)
+                  Entering <Term>
+                     Entering <Factor>
+                        Terminal: 1 (line 0)
+                     Exiting <Factor>
+                  Exiting <Term>
+               Exiting <Expression>
+            Exiting <AssignmentStatement>
+            Terminal: ) (line 0)
+            Terminal: do (line 0)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <ProcedureStatement>
+                     Terminal: call (line 0)
+                     Terminal: put (line 0)
+                     Terminal: ( (line 0)
+                     Entering <ArgumentList>
+                        Terminal: x1 (line 0)
+                        Terminal: , (line 0)
+                        Terminal: x2 (line 0)
+                        Terminal: , (line 0)
+                        Terminal: x3 (line 0)
+                     Exiting <ArgumentList>
+                     Terminal: ) (line 0)
+                  Exiting <ProcedureStatement>
+               Exiting <Statement>
+               Terminal: ; (line 0)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x3 (line 0)
+                     Terminal: := (line 0)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x3 (line 0)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: + (line 0)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 0)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 0)
+            Terminal: loop (line 0)
+         Exiting <ForStatement>
+      Exiting <Statement>
+      Terminal: ; (line 0)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 0)
+            Terminal: put (line 0)
+            Terminal: ( (line 0)
+            Entering <ArgumentList>
+               Terminal: x3 (line 0)
+            Exiting <ArgumentList>
+            Terminal: ) (line 0)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+   Exiting <StatementList>
+   Terminal: end (line 0)
+Exiting <StatementPart>
+Terminal:  (line 1)
+Parsing completed successfully.
+
+312FILE Programs Folder/program11
+Entering <StatementPart>
+   Terminal: begin (line 1)
+   Entering <StatementList>
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 2)
+            Terminal: get (line 2)
+            Terminal: ( (line 2)
+            Entering <ArgumentList>
+               Terminal: x1 (line 2)
+            Exiting <ArgumentList>
+            Terminal: ) (line 2)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 2)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 3)
+            Terminal: := (line 3)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: 1 (line 3)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 3)
+      Entering <Statement>
+         Entering <WhileStatement>
+            Terminal: while (line 4)
+            Entering <Condition>
+               Terminal: x1 (line 4)
+               Terminal: != (line 4)
+               Terminal: 0 (line 4)
+            Exiting <Condition>
+            Terminal: loop (line 4)
+            Entering <StatementList>
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x2 (line 5)
+                     Terminal: := (line 5)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x2 (line 5)
+                           Exiting <Factor>
+                           Terminal: * (line 5)
+                           Entering <Factor>
+                              Terminal: x1 (line 5)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+               Terminal: ; (line 5)
+               Entering <Statement>
+                  Entering <AssignmentStatement>
+                     Terminal: x1 (line 6)
+                     Terminal: := (line 6)
+                     Entering <Expression>
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: x1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                        Terminal: - (line 6)
+                        Entering <Term>
+                           Entering <Factor>
+                              Terminal: 1 (line 6)
+                           Exiting <Factor>
+                        Exiting <Term>
+                     Exiting <Expression>
+                  Exiting <AssignmentStatement>
+               Exiting <Statement>
+            Exiting <StatementList>
+            Terminal: end (line 7)
+            Terminal: loop (line 7)
+         Exiting <WhileStatement>
+      Exiting <Statement>
+      Terminal: ; (line 7)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: text (line 8)
+            Terminal: := (line 8)
+            Terminal: the result is  (line 8)
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 8)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 9)
+            Terminal: put (line 9)
+            Terminal: ( (line 9)
+            Entering <ArgumentList>
+               Terminal: text (line 9)
+            Exiting <ArgumentList>
+            Terminal: ) (line 9)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 9)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 10)
+            Terminal: put (line 10)
+            Terminal: ( (line 10)
+            Entering <ArgumentList>
+               Terminal: x1 (line 10)
+            Exiting <ArgumentList>
+            Terminal: ) (line 10)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+      Terminal: ; (line 10)
+      Entering <Statement>
+         Entering <AssignmentStatement>
+            Terminal: x2 (line 11)
+            Terminal: := (line 11)
+            Entering <Expression>
+               Entering <Term>
+                  Entering <Factor>
+                     Terminal: x2 (line 11)
+                  Exiting <Factor>
+                  Terminal: % (line 11)
+                  Entering <Factor>
+                     Terminal: x1 (line 11)
+                  Exiting <Factor>
+                  Terminal: / (line 11)
+                  Entering <Factor>
+                     Terminal: 2 (line 11)
+                  Exiting <Factor>
+               Exiting <Term>
+            Exiting <Expression>
+         Exiting <AssignmentStatement>
+      Exiting <Statement>
+      Terminal: ; (line 11)
+      Entering <Statement>
+         Entering <ProcedureStatement>
+            Terminal: call (line 12)
+            Terminal: put (line 12)
+            Terminal: ( (line 12)
+            Entering <ArgumentList>
+               Terminal: x2 (line 12)
+            Exiting <ArgumentList>
+            Terminal: ) (line 12)
+         Exiting <ProcedureStatement>
+      Exiting <Statement>
+   Exiting <StatementList>
+   Terminal: end (line 13)
+Exiting <StatementPart>
+Terminal:  (line 15)
+Parsing completed successfully.
+Programs Folder/program12 does not exist
+
+312FINISH
